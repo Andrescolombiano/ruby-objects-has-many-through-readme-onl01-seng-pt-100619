@@ -47,4 +47,3 @@ class Customer
   end
 
 
-end
